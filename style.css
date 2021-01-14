@@ -57,6 +57,10 @@ border-radius: 5px;
 #ad-pic{
     height: 350px;
 }
+.categories img{
+    width: 80px;
+    border-radius: 5px;
+}
 /* main{
     width: 1200px;
     max-width: 90%;
